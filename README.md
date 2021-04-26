@@ -21,3 +21,4 @@ You must have discord notifcation set in order for the bot to work. If you do no
 4. Stop the bot at any time with `npm run stop`
 
 Note: the bot will no longer run once a purchase has been made. To be able to use the bot again, delete `purchase.json` from the main folder.
+Note: This is an edited version for Canadian BestBuy.
