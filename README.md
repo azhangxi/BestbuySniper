@@ -1,6 +1,6 @@
 # BestbuySniper
 ## Demo
-
+![](bestbuysniperdemo.gif)
 
 ## Install
 `npm install`
